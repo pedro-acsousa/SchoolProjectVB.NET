@@ -1,0 +1,20 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\TentativaQuizz\bin\Debug\TentativaQuizz.exe.config
+C:\Users\Aluno\Desktop\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\TentativaQuizz.exe.config
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\TentativaQuizz.exe.config
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\TentativaQuizz.exe
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\TentativaQuizz.pdb
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\TentativaQuizz.xml
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.Form1.resources
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.Resources.resources
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.vbproj.GenerateResource.Cache
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.exe
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.xml
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.pdb
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.Comecar.resources
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\Interop.WMPLib.dll
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\bin\Debug\AxInterop.WMPLib.dll
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\Interop.WMPLib.dll
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\AxInterop.WMPLib.dll
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.vbproj.ResolveComReference.cache
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.sessao.resources
+C:\PAP Pedro Sousa\TentativaQuizz\TentativaQuizz\obj\Debug\TentativaQuizz.registo.resources

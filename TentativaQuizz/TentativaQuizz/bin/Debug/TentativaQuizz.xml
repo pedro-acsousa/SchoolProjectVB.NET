@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TentativaQuizz
+</name>
+</assembly>
+<members>
+<member name="T:TentativaQuizz.quizzDataSet.Lvl1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.UtilizadoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.UtilizadoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.Lvl3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet.UtilizadoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.Lvl1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.Lvl2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.Lvl3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.UtilizadoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(TentativaQuizz.quizzDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(TentativaQuizz.quizzDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(TentativaQuizz.quizzDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.UpdateAll(TentativaQuizz.quizzDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:TentativaQuizz.quizzDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:TentativaQuizz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TentativaQuizz.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TentativaQuizz.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
